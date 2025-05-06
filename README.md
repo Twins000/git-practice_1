@@ -1,4 +1,4 @@
-# git-practice_1.git
+# git-practice_1.
 
 Автор: [Михаил] _Дата_: [06.05.2025]
 
